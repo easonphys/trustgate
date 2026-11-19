@@ -4,6 +4,8 @@
 
 IdP proves *who the human is*. TrustGate proves *what an agent is allowed to do*, *how authority narrows across hops*, and *what happened*.
 
+**GitHub:** https://github.com/easonphys/trustgate
+
 [Quickstart](docs/QUICKSTART.md) · [Positioning](docs/POSITIONING.md) · [Threat model](docs/THREAT_MODEL.md) · [Competitors](docs/COMPETITORS.md)
 
 ## Status
